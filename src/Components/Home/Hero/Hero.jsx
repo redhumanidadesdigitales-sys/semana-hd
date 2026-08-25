@@ -17,7 +17,7 @@ const Hero = () => {
           La <a href="https://twitter.com/search?q=%23SemanaHD&src=typed_query" target="_blank" rel="noopener noreferrer">#SemanaHD</a> es un evento abierto, gratuito y colaborativo  que se propone como un espacio en línea para dar a conocer proyectos  e iniciativas de Humanidades digitales en América Latina y el Caribe.  Si tienes un evento relacionado con las humanidades digitales (charlas, paneles, mesas de debates y talleres, etcétera) que ocurra entre el 3 y el 9 de noviembre, te invitamos a compartirlo y visibilizarlo en esta plataforma.</p>
           <ColorBar />
           <h4 className="mt-12 text-green_hd font-semibold text-xl md:text-2xl xl:text-3xl">
-            del 3 al 9 de noviembre de 2025
+            del 3 al 9 de noviembre de 2026
           </h4>
         </div>
       </div>
