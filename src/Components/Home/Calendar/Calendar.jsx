@@ -63,7 +63,7 @@ const CalendarEmbed = () => {
     <div className="w-full h-full">
       <iframe
         title="Conference Calendar"
-        src=""https://calendar.google.com/calendar/embed?src=987891a4e6f6d5f504c0d03049834c8b422ff070ccb2154e876c0b2581c67c5b%40group.calendar.google.com&dates=20260801/20260830&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showTabs=0"
+        src="https://calendar.google.com/calendar/embed?src=987891a4e6f6d5f504c0d03049834c8b422ff070ccb2154e876c0b2581c67c5b%40group.calendar.google.com&dates=20260801/20260830&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showTabs=0"
         className="w-full h-full border-0"
         
       ></iframe>
