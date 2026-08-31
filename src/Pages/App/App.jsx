@@ -53,22 +53,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img
-            src={AAHD}
-            alt="Asociación Argentina de Humanidades Digitales"
-            width={60}
-          />
         </a>
         <a
           href="https://rchd.com.co/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img
-            src={logoRCHD}
-            alt="Red Colombiana de Humanidades Digitales"
-            width={78}
-          />
         </a>
         <a
           href="http://humanidadesdigitales.net/"
