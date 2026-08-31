@@ -68,7 +68,7 @@ function App() {
           <img
             src={RHD}
             alt="Red de Humanidades Digitales"
-            width={68}
+            width={60}
           />
         </a>
         {/*<NavLink to="/proposal" className="proposal">
