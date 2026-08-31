@@ -125,7 +125,7 @@ function Calendar() {
 
               <div className="mt-6 flex flex-wrap justify-center gap-4">
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSeA01AOT0HRm5qEWSkE_s7C5KMVYtTs9SHMQpEIB03MZKsyNg/viewform?usp=dialog"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSf7i4zndLDWvHqzKnvE1Xn-sqBclRvKQe7EZ8r6qAVeZLtAnQ/viewform"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="calendar-link bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-lg transition"
