@@ -15,10 +15,10 @@ function Identity() {
         </div>
         <div className="xl:w-1/2">
           <ul className="resources-items mt-10 xl:ml-20">
-            <li><a href="https://drive.google.com/drive/folders/10ALuH5SLZVIR9AGXZnH1quxovK12qKVc" target="_blank" rel="noopener noreferrer"><img src={`${import.meta.env.BASE_URL}images/logo-resource.png`} width={24} alt="Logotipo" /> Logotipo</a></li>
+            <li><a href="https://drive.google.com/drive/folders/1gXi_pw-cgh6iGmYICIsSXRH3-UziTIdq?usp=sharing" target="_blank" rel="noopener noreferrer"><img src={`${import.meta.env.BASE_URL}images/logo-resource.png`} width={24} alt="Logotipo" /> Logotipo</a></li>
             <li>
               <p className="text-gray-50 mt-6 mb-2">Ponemos a tu disposición estas plantillas personalizables.</p>
-              <a href="https://drive.google.com/drive/folders/13-3TWMDwPTN2l5jpMXuMEvbM9i7Vhz9X" target="_blank" rel="noopener noreferrer"><img src={`${import.meta.env.BASE_URL}images/slideshow-resource.png`} width={24} alt="Presentación" /> Presentación</a>
+              <a href="https://drive.google.com/drive/folders/1ed_Z6HNLZFbIEE2dgBnVfmj-lbWdiZ8U?usp=sharing" target="_blank" rel="noopener noreferrer"><img src={`${import.meta.env.BASE_URL}images/slideshow-resource.png`} width={24} alt="Presentación" /> Presentación</a>
             </li>
           </ul>
         </div>
