@@ -68,49 +68,7 @@ function LatamHD() {
           </p>
         </div>
         <div className="lg:w-2/3 xl:w-11/12 2xl:w-10/12 mx-auto px-4 xl:flex xl:flex-row items-center gap-10">
-          {networkItem({
-            title: "Asociación Argentina de Humanidades Digitales",
-            image: `${import.meta.env.BASE_URL}images/aahd.png`,
-            imageWidth: 120,
-            links: [
-              {
-                url: "https://www.facebook.com/aahdArg/",
-                image: `${import.meta.env.BASE_URL}images/facebook-logo`,
-              },
-              {
-                url: "https://twitter.com/aahdArg",
-                image: `${import.meta.env.BASE_URL}images/twitter-logo`,
-              },
-              {
-                url: "https://www.facebook.com/groups/humanidadesdigitalesargentina/",
-                image: `${import.meta.env.BASE_URL}images/facebookgroups-logo`,
-              },
-              {
-                url: "https://www.instagram.com/humanidadesdigitalesargentina/",
-                image: `${import.meta.env.BASE_URL}images/instagram-logo`,
-              },
-            ],
-          })}
-          {networkItem({
-            title: "Red Colombiana de Humanidades Digitales",
-            image: `${import.meta.env.BASE_URL}images/rchd.png`,
-            imageWidth: 160,
-            links: [
-              {
-                url: "https://www.facebook.com/redcolhd",
-                image: `${import.meta.env.BASE_URL}images/facebook-logo`,
-              },
-              {
-                url: "https://twitter.com/ReHDi_Co",
-                image: `${import.meta.env.BASE_URL}images/twitter-logo`,
-              },
-              {
-                url: "https://www.youtube.com/channel/UCR3fSjgX-jXplnpm_wg8rag/featured",
-                image: `${import.meta.env.BASE_URL}images/youtube-logo`,
-              },
-            ],
-          })}
-          {networkItem({
+         {networkItem({
             title: "Red de Humanidades Digitales",
             image: `${import.meta.env.BASE_URL}images/rhd.png`,
             imageWidth: 136,
