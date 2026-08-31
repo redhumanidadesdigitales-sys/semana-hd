@@ -64,8 +64,7 @@ function LatamHD() {
             nuestra región.
           </p>
           <p>
-            Para comunicarte con nosotros puedes hacerlo a través de estas tres
-            asociaciones, que auspician la SemanaHD:
+            Para comunicarte con nosotros puedes hacerlo a través de la RedHD, encargada de auspiciar esta edición de la SemanaHD:
           </p>
         </div>
         <div className="lg:w-2/3 xl:w-11/12 2xl:w-10/12 mx-auto px-4 xl:flex xl:flex-row items-center gap-10">
