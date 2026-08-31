@@ -49,18 +49,6 @@ function App() {
         >
         </a>
         <a
-          href="https://aahd.net.ar/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
-        <a
-          href="https://rchd.com.co/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        </a>
-        <a
           href="http://humanidadesdigitales.net/"
           target="_blank"
           rel="noopener noreferrer"
@@ -68,7 +56,7 @@ function App() {
           <img
             src={RHD}
             alt="Red de Humanidades Digitales"
-            width={60}
+            width={68}
           />
         </a>
         {/*<NavLink to="/proposal" className="proposal">
