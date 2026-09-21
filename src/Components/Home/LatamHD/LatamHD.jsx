@@ -92,6 +92,25 @@ function LatamHD() {
             ],
           })}
           {networkItem({
+            title: "Red Colombiana de Humanidades Digitales",
+            image: `${import.meta.env.BASE_URL}images/rchd.png`,
+            imageWidth: 160,
+            links: [
+              {
+                url: "https://www.facebook.com/redcolhd",
+                image: `${import.meta.env.BASE_URL}images/facebook-logo`,
+              },
+              {
+                url: "https://twitter.com/ReHDi_Co",
+                image: `${import.meta.env.BASE_URL}images/twitter-logo`,
+              },
+              {
+                url: "https://www.youtube.com/channel/UCR3fSjgX-jXplnpm_wg8rag/featured",
+                image: `${import.meta.env.BASE_URL}images/youtube-logo`,
+              },
+            ],
+          })}
+          {networkItem({
             title: "Red de Humanidades Digitales",
             image: `${import.meta.env.BASE_URL}images/rhd.png`,
             imageWidth: 136,
