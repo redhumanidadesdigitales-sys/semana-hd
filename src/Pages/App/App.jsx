@@ -60,6 +60,17 @@ function App() {
           />  
         </a>
         <a
+          href="https://rchd.com.co/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={logoRCHD}
+            alt="Red Colombiana de Humanidades Digitales"
+            width={78}
+          />
+        </a>
+        <a
           href="http://humanidadesdigitales.net/"
           target="_blank"
           rel="noopener noreferrer"
