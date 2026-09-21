@@ -47,6 +47,17 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+         </a>
+        <a
+          href="https://aahd.net.ar/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={AAHD}
+            alt="Asociación Argentina de Humanidades Digitales"
+            width={60}
+          />  
         </a>
         <a
           href="http://humanidadesdigitales.net/"
